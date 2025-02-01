@@ -79,7 +79,7 @@
   <li>Acesse a pasta do projeto:</li>
 
   <pre>
-  cd projeto-spotify
+  cd cloneSpotify
   </pre>
 
   <li>Abra o arquivo <code>index.html</code> no navegador.</li>
